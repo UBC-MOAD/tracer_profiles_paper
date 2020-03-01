@@ -6,8 +6,9 @@ on the shelf off the west coast of Vancouver Island. For each run in AST and BAR
 a canyon are AST02 and AST04, and BAR02 and BAR04. Runs AST01 and BAR01 (and AST02, BAR02) have a linear initial temperature and salinity profiles, while AST03 and BAR03
 have initial temperature and salinity profiles taken form ARGO floats and the Pathways cruise, respectively.
 
+
 |Experiment|Run|Bathymetry|Initial T and S|
-|::|::|::|::|
+|:-:|:-:|:-:|:-:|
 |AST|01|Astoria-like canyon|Linear|
 |AST|02|No-canyon|Linear|
 |AST|03|Astoria-like canyon|ARGO|
@@ -17,6 +18,6 @@ have initial temperature and salinity profiles taken form ARGO floats and the Pa
 |BAR|03|Barkley-like|Pathways|
 |BAR|04|No-canyon|Pathways|
 
-**Grid**:
-The grid is 616 x 360 in the horizontal with 104 depth levels.
+
+**Grid**: The grid is 616 x 360 in the horizontal with 104 depth levels.
  
