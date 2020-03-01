@@ -1,7 +1,7 @@
 ## Input files
 
 Follow the links to download the binary files of initial temperature, salinity and tracer 
-concentration and bathymetry files required to run the model or download the [zip file](https://www.eoas.ubc.ca/~kramosmu/tracer_profiles_paper/input_files/input_files.zip) to get them all (2.4 GB when unzipped). 
+concentration and bathymetry files required to run the model.
 
 ### Bathymetry 
 
