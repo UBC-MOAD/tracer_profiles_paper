@@ -21,3 +21,4 @@ have initial temperature and salinity profiles taken form ARGO floats and the Pa
 
 **Grid**: The grid is 616 x 360 in the horizontal with 104 depth levels.
  
+**Model output**: Available from UBC Research Data Collection, https://doi.org/10.5683/SP2/TV2LNQ 
